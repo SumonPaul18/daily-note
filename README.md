@@ -9,4 +9,6 @@ https://www.youtube.com/watch?v=9iTPm45EmxM
 
 https://www.youtube.com/watch?v=QsQUzutGarA
 
+Kubernetes Longhorn Snapshot and Backup with NFS storage
+
 
