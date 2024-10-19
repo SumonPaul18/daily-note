@@ -11,4 +11,5 @@ https://www.youtube.com/watch?v=QsQUzutGarA
 
 Kubernetes Longhorn Snapshot and Backup with NFS storage
 
+[Install Prometheus & Grafana on Kubernetes](https://www.bigbinary.com/blog/prometheus-and-grafana-integration)
 
