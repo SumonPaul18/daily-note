@@ -22,27 +22,43 @@ https://github.com/teucer12/remote-linux
 
 ---
 Top 10 Open Source Headless CMS
+
 Strapi : https://strapi.io/
+
 Apostrophe : https://apostrophecms.com/
+
 Webiny : https://www.webiny.com/serverless-cms/
+
 Directus : https://directus.io/
+
 Squidex : https://squidex.io/
+
 Ghost : https://ghost.org/docs/
+
 Netlify CMS : https://www.netlifycms.org/
+
 Sanity Studio : https://www.sanity.io/studio
+
 Plone : https://plone.org/
+
 Flextype : https://flextype.org/
 
 ---
 
 Ghost: https://ghost.org
+
 Strapi: https://strapi.io
+
 Webiny: https://www.webiny.com
+
 Directus: https://directus.io
+
 Payload: https://payloadcms.com
 
 Others I forgot to mention:
+
 Keystone: https://keystonejs.com
+
 Apostrophe: https://apostrophecms.com
 
 
