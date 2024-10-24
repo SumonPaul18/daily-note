@@ -30,6 +30,16 @@ Sanity Studio : https://www.sanity.io/studio
 Plone : https://plone.org/
 Flextype : https://flextype.org/
 
+---
 
+Ghost: https://ghost.org
+Strapi: https://strapi.io
+Webiny: https://www.webiny.com
+Directus: https://directus.io
+Payload: https://payloadcms.com
+
+Others I forgot to mention:
+Keystone: https://keystonejs.com
+Apostrophe: https://apostrophecms.com
 
 
