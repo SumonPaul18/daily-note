@@ -17,6 +17,9 @@ https://github.com/teucer12/remote-linux
 
 [Coolfy](https://www.youtube.com/watch?v=44uWIkGZ4W8)
 
+#
+[Open Source Headless CMS](https://jamstack.org/headless-cms/#:~:text=Strapi%20is%20the%20leading%20open,support%20TypeScript%20and%20developer%2Dfirst.)
+
 ---
 Top 10 Open Source Headless CMS
 Strapi : https://strapi.io/
